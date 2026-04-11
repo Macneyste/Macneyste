@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Yonis Abdikhadir Osman</h1>
 <h3 align="center">A passionate developer from Somalia 🇸🇴</h3>
 
 ---
@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Programming**
 - 💻 I love **Web Development & AI**
-- 📫 Reach me: your@email.com
+- 📫 Reach me: yoonisabdikhaadir@gmail.com
 
 ---
 
