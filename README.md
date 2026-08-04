@@ -6,7 +6,15 @@
 
 > Building scalable web applications and continuously learning modern technologies.
 
-[🌐 Portfolio](https://macneyste.com/) • [💻 GitHub](https://github.com/Macneyste) • 📧 yoonisabdikhaadir@gmail.com
+<p>
+<a href="https://macneyste.com/">🌐 Portfolio</a> •
+<a href="https://github.com/Macneyste">GitHub</a> •
+<a href="mailto:yoonisabdikhaadir@gmail.com">Email</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Macneyste&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Macneyste?style=social" />
+<img src="https://img.shields.io/github/stars/Macneyste?style=social" />
 
 </div>
 
@@ -14,139 +22,73 @@
 
 # 👨‍💻 About Me
 
-I'm **Yonis Abdulkadir Osman**, a passionate **Software Engineering student** from **Somalia** who enjoys building modern, scalable, and user-friendly web applications.
+I'm **Yonis Abdulkadir Osman**, a passionate **Software Engineering student** from **Somalia**.
 
-I love learning new technologies, solving real-world problems, and turning ideas into useful software. My focus is becoming a professional **Full Stack Developer** by mastering both frontend and backend development while writing clean, maintainable code.
-
-I'm constantly improving my skills through personal projects, open-source contributions, and continuous learning.
+I enjoy building scalable web applications, learning modern technologies, and solving real-world problems through software. My goal is to become a professional Full Stack Software Engineer while continuously improving my skills in frontend, backend, cloud technologies, and system design.
 
 ---
 
 # 🎯 Goal
 
-Become a **Professional Full Stack Software Engineer** who builds scalable, secure, and impactful applications that solve real-world problems.
+Become a Professional Full Stack Software Engineer who builds secure, scalable, and impactful software that solves real-world problems.
 
 ---
 
-# 🌍 Location
+# 💻 Tech Stack
 
-📍 Mogadishu, Somalia
-
----
-
-# 🚀 Currently Learning
-
-- MERN Stack
-- TypeScript
-- Next.js
-- Node.js & Express
-- MongoDB
-- REST APIs
-- Docker
-- Git & GitHub
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-- MySQL
-
-### Programming Languages
-
-- JavaScript
-- Python
-- C#
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Linux (Fedora)
-- Docker
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Project One
-
-**Description**
-
-A modern full-stack web application built with clean architecture and responsive UI.
-
-**Tech**
-
-- React
-- Node.js
-- Express
-- MongoDB
-
-GitHub:
-YOUR_PROJECT_LINK
-
----
-
-## 💻 Project Two
-
-**Description**
-
-A scalable backend application with authentication and REST APIs.
-
-GitHub:
-YOUR_PROJECT_LINK
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql,postgres,python,cs,git,github,docker,postman,vscode,linux,bash,npm,aws,firebase,vercel,netlify&perline=8" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Macneyste&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Macneyste&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Macneyste&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Macneyste&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macneyste&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Macneyste&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Macneyste&theme=tokyo-night)](https://github.com/Macneyste)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Macneyste&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 🌐 Full Stack Web Applications
+- 🛒 E-Commerce Systems
+- 🏥 Management Systems
+- 📚 Student Projects
+- 🔐 Authentication & REST APIs
 
 ---
 
 # 🤝 Connect With Me
 
-🌐 Portfolio  
-https://macneyste.com/
+🌐 Website: https://macneyste.com/
 
-💻 GitHub  
-https://github.com/Macneyste
+💻 GitHub: https://github.com/Macneyste
 
-📧 Email  
-yoonisabdikhaadir@gmail.com
+📧 Email: yoonisabdikhaadir@gmail.com
+
+📍 Location: Mogadishu, Somalia
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Quote
 
-> "Great software is built one clean commit at a time."
+> **"Code with purpose. Learn continuously. Build for impact."**
 
 ---
 
@@ -154,6 +96,6 @@ yoonisabdikhaadir@gmail.com
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
